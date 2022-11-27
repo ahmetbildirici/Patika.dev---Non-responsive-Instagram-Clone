@@ -1,1 +1,1 @@
-# Patika.dev---Non-responsive-Instagram-Clone
+# Patika.dev | Non-responsive-Instagram-Clone Project
